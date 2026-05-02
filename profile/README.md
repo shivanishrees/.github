@@ -8,10 +8,8 @@ I'm a curious developer who loves exploring multiple tech domains. Whether I'm b
 
 * 📱 Mobile development enthusiast
 * 🧠 Into machine learning and AI
-* 💬 Passionate about NLP and language tech
-* 💡 Clean code believer
+* 💬 Intrested in NLP and language tech
 * 🌱 Constantly leveling up across different domains
-* 🚀 Open-source contributor
 * 🎯 Building things that are actually interesting
 
 ## Tech Stack 🛠️
