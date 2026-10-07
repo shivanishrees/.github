@@ -4,13 +4,9 @@ I'm a developer who vibes with building cool stuff. Exploring what's possible wi
 
 ## About Me 💻
 
-I'm a curious developer who loves exploring multiple tech domains. Whether I'm building sleek mobile apps, training models to do cool things, or teaching machines to understand language, I'm always down to push boundaries and learn something new. Jack of all trades, master of having fun with code.
+I’m a developer who likes exploring new ideas, solving problems, and building things that have a purpose beyond just working.
 
-* 📱 Mobile development enthusiast
-* 🧠 Into machine learning and AI
-* 💬 Interested in NLP and language tech
-* 🌱 Constantly leveling up across different domains
-* 🎯 Building things that are actually interesting
+I’m not really into sticking to one box, I’d rather keep learning, experiment with different technologies, and use what I know to tackle real world problems. I’m here to build, learn, and hopefully create something that actually makes a difference.
 
 ## Tech Stack 🛠️
 
