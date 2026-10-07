@@ -4,9 +4,8 @@ I'm a developer who vibes with building cool stuff. Exploring what's possible wi
 
 ## About Me 💻
 
-I’m a developer who likes exploring new ideas, solving problems, and building things that have a purpose beyond just working.
-
-I’m not really into sticking to one box, I’d rather keep learning, experiment with different technologies, and use what I know to tackle real world problems. I’m here to build, learn, and hopefully create something that actually makes a difference.
+I like building things, figuring out how they work, and occasionally breaking them along the way.  
+I enjoy exploring new ideas, learning different technologies, and solving problems that go beyond just writing code. I'm still figuring out what I want to build but I want it to be something that actually matters.
 
 ## Tech Stack 🛠️
 
